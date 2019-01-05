@@ -1,3 +1,4 @@
+
 .text-platzi
 {
   color: #97c93e !important;
@@ -17,6 +18,9 @@
   position: relative;
   height: calc(100vh - 57px);
   overflow-y: scroll;
+  overflow-x: hidden;
+  box-sizing: border-box;
+
 }
 .badge-bootstrap
 {
